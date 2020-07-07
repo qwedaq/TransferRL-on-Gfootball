@@ -10,3 +10,16 @@ Trained GFootball environment on different tasks. Trained on 3_vs_1 first from s
 ![alt-text](https://github.com/aveen-d/TransferRL-on-Gfootball/blob/master/Graphs/1.png)
 ![alt-text](https://github.com/aveen-d/TransferRL-on-Gfootball/blob/master/Graphs/2.jpg)
 ![alt-text](https://github.com/aveen-d/TransferRL-on-Gfootball/blob/master/Graphs/3.jpg)
+
+
+| ![3_vs_1](https://github.com/aveen-d/TransferRL-on-Gfootball/blob/master/gifs/3_v_1.gif) |  
+|--|
+| 3_vs_1 from scratch | 
+
+| ![5_vs_3_scratch](https://github.com/aveen-d/TransferRL-on-Gfootball/blob/master/gifs/5_v_3_scratch.gif) | ![5_vs_3_transfer](https://github.com/aveen-d/TransferRL-on-Gfootball/blob/master/gifs/5_v_3_transfer.gif) |
+|--|--|
+| 5_vs_3 from scratch | 5_vs_3 transfer learned  |
+
+| ![](https://github.com/aveen-d/TransferRL-on-Gfootball/blob/master/Graphs/1.png) | ![](https://github.com/aveen-d/TransferRL-on-Gfootball/blob/master/Graphs/2.jpg) | ![](https://github.com/aveen-d/TransferRL-on-Gfootball/blob/master/Graphs/3.jpg) |
+|--|--|--|
+|  |  |  |
